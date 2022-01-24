@@ -1,0 +1,7 @@
+.background {
+    background-image: url(../../images/homebg.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
