@@ -1,0 +1,29 @@
+.searchInput {
+padding: 8px 8px 8px 20px;
+width: 344px;
+height: 56px;
+
+position: absolute;
+left: 41%;
+top: 45%;
+  
+  
+background: rgba(255, 255, 255, 0.15);
+border: 0.861538px solid rgba(255, 255, 255, 0.6);
+box-sizing: border-box;
+backdrop-filter: blur(8px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 42px;
+}
+
+.searchButton {
+    position: absolute;
+    left: 56.5%;
+    top: 46%;
+    padding: 11px;
+    width: 40px;
+    height: 40px;
+    background: #E58411;
+    border-radius: 24px;
+}

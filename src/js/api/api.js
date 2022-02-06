@@ -3,10 +3,10 @@ const axios = require('axios').default;
 const options = {
   method: 'GET',
   url: 'https://getrit-furniture-store.p.rapidapi.comhttps//getrit.com/API/Token',
-  params: { Token: 'Demo' },
+  params: { Token: 'FurnitureShop' },
   headers: {
     'x-rapidapi-host': 'getrit-furniture-store.p.rapidapi.com',
-    'x-rapidapi-key': 'SIGN-UP-FOR-KEY',
+    'x-rapidapi-key': 'fd7b8f2585mshf6898278b87b8b0p149370jsn056bfa746a8c',
   },
 };
 
